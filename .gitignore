@@ -7,3 +7,7 @@ dist
 
 # visual studio code
 .vscode
+
+# yarn
+yarn.lock
+yarn-error.log
